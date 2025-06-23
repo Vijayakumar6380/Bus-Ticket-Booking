@@ -1,0 +1,14 @@
+#library command
+pip install flask flask_sqlalchemy flask_wtf flask_login flask_migrate
+pip install pandas openrouteservice qrcode pillow
+pip install opencv-python
+pip install python-dotenv
+
+#Flask mail command
+pip install flask-mail
+
+#QR Code command
+pip install base64 io
+
+#Running command
+python app.py runserver
